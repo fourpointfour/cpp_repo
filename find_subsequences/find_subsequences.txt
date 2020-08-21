@@ -1,0 +1,3 @@
+This program uses the recursion strategy to find all the possible subsequences of the given input string.
+
+It is based on the logic that a character can either be included or excluded in a given output string.
