@@ -12,7 +12,7 @@ bool isSafe(vector< vector<int> > graph, vector<int> path, int pos, int v)
     }
     return true;
 }
-bool HamiltonianPath(vector< vector<int> > graph, vector<int> &path, int pos)
+bool HamiltonianPath(vector< vector<int> > graph, vector<int> path, int pos)
 {
     if(pos == graph.size())
     {
